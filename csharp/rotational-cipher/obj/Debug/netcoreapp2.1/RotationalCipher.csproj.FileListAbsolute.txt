@@ -1,0 +1,15 @@
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\rotational-cipher\bin\Debug\netcoreapp2.1\testhost.exe
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\rotational-cipher\bin\Debug\netcoreapp2.1\testhost.dll
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\rotational-cipher\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\rotational-cipher\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\rotational-cipher\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\rotational-cipher\bin\Debug\netcoreapp2.1\RotationalCipher.deps.json
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\rotational-cipher\bin\Debug\netcoreapp2.1\RotationalCipher.runtimeconfig.json
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\rotational-cipher\bin\Debug\netcoreapp2.1\RotationalCipher.runtimeconfig.dev.json
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\rotational-cipher\bin\Debug\netcoreapp2.1\RotationalCipher.dll
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\rotational-cipher\bin\Debug\netcoreapp2.1\RotationalCipher.pdb
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\rotational-cipher\obj\Debug\netcoreapp2.1\RotationalCipher.csprojAssemblyReference.cache
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\rotational-cipher\obj\Debug\netcoreapp2.1\RotationalCipher.AssemblyInfoInputs.cache
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\rotational-cipher\obj\Debug\netcoreapp2.1\RotationalCipher.AssemblyInfo.cs
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\rotational-cipher\obj\Debug\netcoreapp2.1\RotationalCipher.dll
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\rotational-cipher\obj\Debug\netcoreapp2.1\RotationalCipher.pdb

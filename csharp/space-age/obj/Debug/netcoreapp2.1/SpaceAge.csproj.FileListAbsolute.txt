@@ -1,0 +1,15 @@
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\space-age\bin\Debug\netcoreapp2.1\testhost.exe
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\space-age\bin\Debug\netcoreapp2.1\testhost.dll
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\space-age\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\space-age\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\space-age\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\space-age\bin\Debug\netcoreapp2.1\SpaceAge.deps.json
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\space-age\bin\Debug\netcoreapp2.1\SpaceAge.runtimeconfig.json
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\space-age\bin\Debug\netcoreapp2.1\SpaceAge.runtimeconfig.dev.json
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\space-age\bin\Debug\netcoreapp2.1\SpaceAge.dll
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\space-age\bin\Debug\netcoreapp2.1\SpaceAge.pdb
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\space-age\obj\Debug\netcoreapp2.1\SpaceAge.csprojAssemblyReference.cache
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\space-age\obj\Debug\netcoreapp2.1\SpaceAge.AssemblyInfoInputs.cache
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\space-age\obj\Debug\netcoreapp2.1\SpaceAge.AssemblyInfo.cs
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\space-age\obj\Debug\netcoreapp2.1\SpaceAge.dll
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\space-age\obj\Debug\netcoreapp2.1\SpaceAge.pdb
