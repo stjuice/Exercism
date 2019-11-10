@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\gigaSECOND\\Gigasecond.csproj": {}
+    "C:\\Users\\stblu\\Exercism\\teams\\lambda-bootcamp\\Exercism\\csharp\\gigasecond\\Gigasecond.csproj": {}
   },
   "projects": {
-    "C:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\gigaSECOND\\Gigasecond.csproj": {
+    "C:\\Users\\stblu\\Exercism\\teams\\lambda-bootcamp\\Exercism\\csharp\\gigasecond\\Gigasecond.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\gigaSECOND\\Gigasecond.csproj",
+        "projectUniqueName": "C:\\Users\\stblu\\Exercism\\teams\\lambda-bootcamp\\Exercism\\csharp\\gigasecond\\Gigasecond.csproj",
         "projectName": "Gigasecond",
-        "projectPath": "C:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\gigaSECOND\\Gigasecond.csproj",
-        "packagesPath": "C:\\Users\\v.tryfonova\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\gigaSECOND\\obj\\",
+        "projectPath": "C:\\Users\\stblu\\Exercism\\teams\\lambda-bootcamp\\Exercism\\csharp\\gigasecond\\Gigasecond.csproj",
+        "packagesPath": "C:\\Users\\stblu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stblu\\Exercism\\teams\\lambda-bootcamp\\Exercism\\csharp\\gigasecond\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\v.tryfonova\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\stblu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"

@@ -45,6 +45,7 @@ public static class Bob
                 break;
         }
     }
+
     static string FindSymbol(string statement)
     {
         if (IsEmpty(statement))
@@ -59,7 +60,6 @@ public static class Bob
 
         if (IsAllUpper(statement))
             return "A";
-
 
         return ".";
     }
@@ -86,6 +86,7 @@ public static class Bob
 
         return true;
     }
+
     static bool IsAllUpper(string input)
     {
         var letters = 0;
@@ -99,6 +100,7 @@ public static class Bob
                     return false;
             }
         }
+
         return letters == 0 ? false : true;
     }
 
@@ -120,5 +122,4 @@ public static class Bob
         }
         return letters == input.Length ? true : false;
     }
-
 }
