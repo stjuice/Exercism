@@ -38,10 +38,7 @@ public class Clock : IEquatable<Clock>
 
     public Clock Add(int minutesToAdd) => new Clock(this.hours, this.minutes + minutesToAdd);
 
-    public Clock Subtract(int minutesToSubtract)
-    {
-        return new Clock(this.hours, this.minutes - minutesToSubtract);
-    }
+    public Clock Subtract(int minutesToSubtract) => new Clock(this.hours, this.minutes - minutesToSubtract);
 
     public override string ToString() => $"{this.hours:00}:{this.minutes:00}";
 

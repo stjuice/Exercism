@@ -1,0 +1,13 @@
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\dominoes\obj\Debug\netcoreapp2.1\Dominoes.csprojAssemblyReference.cache
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\dominoes\obj\Debug\netcoreapp2.1\Dominoes.AssemblyInfoInputs.cache
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\dominoes\obj\Debug\netcoreapp2.1\Dominoes.AssemblyInfo.cs
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\dominoes\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\dominoes\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\dominoes\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\dominoes\bin\Debug\netcoreapp2.1\Dominoes.deps.json
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\dominoes\bin\Debug\netcoreapp2.1\Dominoes.runtimeconfig.json
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\dominoes\bin\Debug\netcoreapp2.1\Dominoes.runtimeconfig.dev.json
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\dominoes\bin\Debug\netcoreapp2.1\Dominoes.dll
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\dominoes\bin\Debug\netcoreapp2.1\Dominoes.pdb
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\dominoes\obj\Debug\netcoreapp2.1\Dominoes.dll
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\dominoes\obj\Debug\netcoreapp2.1\Dominoes.pdb

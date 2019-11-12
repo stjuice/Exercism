@@ -1,0 +1,13 @@
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\forth\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\forth\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\forth\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\forth\bin\Debug\netcoreapp2.1\Forth.deps.json
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\forth\bin\Debug\netcoreapp2.1\Forth.runtimeconfig.json
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\forth\bin\Debug\netcoreapp2.1\Forth.runtimeconfig.dev.json
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\forth\bin\Debug\netcoreapp2.1\Forth.dll
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\forth\bin\Debug\netcoreapp2.1\Forth.pdb
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\forth\obj\Debug\netcoreapp2.1\Forth.csprojAssemblyReference.cache
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\forth\obj\Debug\netcoreapp2.1\Forth.AssemblyInfoInputs.cache
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\forth\obj\Debug\netcoreapp2.1\Forth.AssemblyInfo.cs
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\forth\obj\Debug\netcoreapp2.1\Forth.dll
+C:\Users\v.tryfonova\Exercism\teams\lambda-bootcamp\csharp\forth\obj\Debug\netcoreapp2.1\Forth.pdb
