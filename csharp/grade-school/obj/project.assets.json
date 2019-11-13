@@ -4061,27 +4061,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\stblu\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Users\\v.tryfonova\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\stblu\\Exercism\\teams\\lambda-bootcamp\\Exercism\\csharp\\grade-school\\GradeSchool.csproj",
+      "projectUniqueName": "C:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\grade-school\\GradeSchool.csproj",
       "projectName": "GradeSchool",
-      "projectPath": "c:\\Users\\stblu\\Exercism\\teams\\lambda-bootcamp\\Exercism\\csharp\\grade-school\\GradeSchool.csproj",
-      "packagesPath": "C:\\Users\\stblu\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\stblu\\Exercism\\teams\\lambda-bootcamp\\Exercism\\csharp\\grade-school\\obj\\",
+      "projectPath": "C:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\grade-school\\GradeSchool.csproj",
+      "packagesPath": "C:\\Users\\v.tryfonova\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\grade-school\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\stblu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\v.tryfonova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
