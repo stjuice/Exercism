@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\collatz-conjecture\\CollatzConjecture.csproj": {}
+    "C:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\Armstrong-Numbers\\ArmstrongNumbers.csproj": {}
   },
   "projects": {
-    "c:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\collatz-conjecture\\CollatzConjecture.csproj": {
+    "C:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\Armstrong-Numbers\\ArmstrongNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\collatz-conjecture\\CollatzConjecture.csproj",
-        "projectName": "CollatzConjecture",
-        "projectPath": "c:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\collatz-conjecture\\CollatzConjecture.csproj",
+        "projectUniqueName": "C:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\Armstrong-Numbers\\ArmstrongNumbers.csproj",
+        "projectName": "ArmstrongNumbers",
+        "projectPath": "C:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\Armstrong-Numbers\\ArmstrongNumbers.csproj",
         "packagesPath": "C:\\Users\\v.tryfonova\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\collatz-conjecture\\obj\\",
+        "outputPath": "C:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\Armstrong-Numbers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

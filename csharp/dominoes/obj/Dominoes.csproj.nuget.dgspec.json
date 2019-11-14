@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\dominoes\\Dominoes.csproj": {}
+    "c:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\dominoes\\Dominoes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\dominoes\\Dominoes.csproj": {
+    "c:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\dominoes\\Dominoes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\dominoes\\Dominoes.csproj",
+        "projectUniqueName": "c:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\dominoes\\Dominoes.csproj",
         "projectName": "Dominoes",
-        "projectPath": "C:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\dominoes\\Dominoes.csproj",
+        "projectPath": "c:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\dominoes\\Dominoes.csproj",
         "packagesPath": "C:\\Users\\v.tryfonova\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\dominoes\\obj\\",
+        "outputPath": "c:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\dominoes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

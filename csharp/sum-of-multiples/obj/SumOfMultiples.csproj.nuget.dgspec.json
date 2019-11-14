@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\sum-of-multiples\\SumOfMultiples.csproj": {}
+    "c:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\sum-of-multiples\\SumOfMultiples.csproj": {}
   },
   "projects": {
-    "C:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\sum-of-multiples\\SumOfMultiples.csproj": {
+    "c:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\sum-of-multiples\\SumOfMultiples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\sum-of-multiples\\SumOfMultiples.csproj",
+        "projectUniqueName": "c:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\sum-of-multiples\\SumOfMultiples.csproj",
         "projectName": "SumOfMultiples",
-        "projectPath": "C:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\sum-of-multiples\\SumOfMultiples.csproj",
+        "projectPath": "c:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\sum-of-multiples\\SumOfMultiples.csproj",
         "packagesPath": "C:\\Users\\v.tryfonova\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\sum-of-multiples\\obj\\",
+        "outputPath": "c:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\sum-of-multiples\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

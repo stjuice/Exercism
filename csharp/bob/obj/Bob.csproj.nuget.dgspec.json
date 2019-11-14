@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\bob\\Bob.csproj": {}
+    "c:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\bob\\Bob.csproj": {}
   },
   "projects": {
-    "C:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\bob\\Bob.csproj": {
+    "c:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\bob\\Bob.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\bob\\Bob.csproj",
+        "projectUniqueName": "c:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\bob\\Bob.csproj",
         "projectName": "Bob",
-        "projectPath": "C:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\bob\\Bob.csproj",
+        "projectPath": "c:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\bob\\Bob.csproj",
         "packagesPath": "C:\\Users\\v.tryfonova\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\bob\\obj\\",
+        "outputPath": "c:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\bob\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

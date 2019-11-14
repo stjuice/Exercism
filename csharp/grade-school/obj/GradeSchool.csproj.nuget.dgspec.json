@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\grade-school\\GradeSchool.csproj": {}
+    "c:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\grade-school\\GradeSchool.csproj": {}
   },
   "projects": {
-    "C:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\grade-school\\GradeSchool.csproj": {
+    "c:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\grade-school\\GradeSchool.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\grade-school\\GradeSchool.csproj",
+        "projectUniqueName": "c:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\grade-school\\GradeSchool.csproj",
         "projectName": "GradeSchool",
-        "projectPath": "C:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\grade-school\\GradeSchool.csproj",
+        "projectPath": "c:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\grade-school\\GradeSchool.csproj",
         "packagesPath": "C:\\Users\\v.tryfonova\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\grade-school\\obj\\",
+        "outputPath": "c:\\Users\\v.tryfonova\\Exercism\\teams\\lambda-bootcamp\\csharp\\grade-school\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
